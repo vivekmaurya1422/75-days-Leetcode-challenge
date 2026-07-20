@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
