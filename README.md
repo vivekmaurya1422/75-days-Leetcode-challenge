@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0441-arranging-coins) |
+| [0162-find-peak-element](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
+| [0162-find-peak-element](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
