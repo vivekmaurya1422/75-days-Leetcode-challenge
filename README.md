@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
