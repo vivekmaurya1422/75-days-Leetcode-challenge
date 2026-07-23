@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
 | [0162-find-peak-element](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
