@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
