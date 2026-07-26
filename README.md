@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
 | [0162-find-peak-element](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
