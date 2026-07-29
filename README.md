@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
+| [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
+| [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 | [0414-third-maximum-number](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0414-third-maximum-number) |
+| [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
