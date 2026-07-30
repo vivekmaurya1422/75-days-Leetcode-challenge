@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0441-arranging-coins) |
 | [0013-roman-to-integer](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0013-roman-to-integer) |
+| [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
+| [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
+| [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
