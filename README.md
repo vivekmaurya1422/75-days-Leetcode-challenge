@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Array
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
