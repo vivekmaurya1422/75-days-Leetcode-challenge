@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0645-set-mismatch) |
 | [0414-third-maximum-number](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0283-move-zeroes) |
 | [0125-valid-palindrome](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
