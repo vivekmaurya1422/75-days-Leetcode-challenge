@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
