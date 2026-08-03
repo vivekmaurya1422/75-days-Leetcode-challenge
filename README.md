@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
 ## Array
 |  |
 | ------- |
@@ -101,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0197-rising-temperature) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
