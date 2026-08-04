@@ -114,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
