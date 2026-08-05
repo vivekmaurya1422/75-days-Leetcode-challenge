@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0039-combination-sum](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0039-combination-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0101-symmetric-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
