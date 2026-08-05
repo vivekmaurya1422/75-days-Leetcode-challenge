@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0459-repeated-substring-pattern) |
+| [0290-word-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0290-word-pattern) |
 ## Array
 |  |
 | ------- |
