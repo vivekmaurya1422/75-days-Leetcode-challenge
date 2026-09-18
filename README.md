@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
+| [0867-transpose-matrix](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0039-combination-sum](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0039-combination-sum) |
 | [1672-richest-customer-wealth](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1672-richest-customer-wealth) |
+| [0867-transpose-matrix](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1672-richest-customer-wealth) |
+| [0867-transpose-matrix](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0867-transpose-matrix) |
 ## Enumeration
 |  |
 | ------- |
