@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0441-arranging-coins) |
 | [0162-find-peak-element](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0039-combination-sum) |
 | [1672-richest-customer-wealth](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/1672-richest-customer-wealth) |
 | [0867-transpose-matrix](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0867-transpose-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0349-intersection-of-two-arrays](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0075-sort-colors](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0349-intersection-of-two-arrays](https://github.com/vivekmaurya1422/75-days-Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
